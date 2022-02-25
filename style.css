@@ -65,6 +65,11 @@ body {
   text-align: center;
 }
 
+.description {
+  font-size: 18px;
+  text-align: center;
+}
+
 .title5 {
   color: silver;
   font-variant: small-caps;
@@ -73,10 +78,7 @@ body {
   text-align: center;
 }
 
-.description {
-  font-size: 18px;
-  text-align: center;
-}
+
 
 #lista {
   align-items: center;
